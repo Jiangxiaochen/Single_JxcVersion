@@ -35,7 +35,7 @@
         <section class="sub-footer">
             <p>
             © <?php echo date('Y'); ?> <a href="<?php $this -> options -> siteUrl() ?>"><?php $this -> options -> title() ?></a>. All Rights Reserved. Theme By <a href="https://github.com/Dreamer-Paul/Single" target="_blank" rel="nofollow">Single </a>
-            Modified By <a href="https://github.com/Dreamer-Paul/Single" target="_blank" rel="nofollow">Jiangxch</a>.
+            Modified By <a href="https://github.com/Jiangxiaochen/Single_JxcVersion" target="_blank" rel="nofollow">Jiangxch</a>.
             <?php $this -> options -> custom_script() ?>
             </p>
         </section>
