@@ -11,7 +11,7 @@
 - 增加分类和标签独立页面模板,可以在创建独立页面时使用
 
 ## 主题预览
-[我的博客](https://www.iseeu.fun/blog/)
+- [我的博客](https://www.iseeu.fun/blog/)
 
 ## 使用的开源项目
 - [Single](https://github.com/Dreamer-Paul/Single).
